@@ -285,7 +285,8 @@ Accessibility ensures your website is usable by everyone, including people with 
 - [A11y Project (Accessibility)](https://www.a11yproject.com/)
 
 ---
+# bangla version
 
-Happy Coding! 
+
 # Author
 [Shiful Islam Shohag](https://www.linkedin.com/in/shiful-shohag/)
